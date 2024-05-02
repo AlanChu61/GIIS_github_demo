@@ -1,0 +1,10 @@
+h1{
+  padding: 10px;
+  border: 1px solid blue;
+}
+#my-div{
+ width: 500px;
+ padding: 20px;
+ border: 5px solid red;
+ margin:50px; 
+}
